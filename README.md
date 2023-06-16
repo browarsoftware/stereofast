@@ -36,7 +36,7 @@ The program can be run with Torch backbone for networks MiDaS-S, MiDaS-H oraz Mi
 )
 - [/midas/midas_evaluation.py](/midas/midas_evaluation.py) evaluation of the method on KITTI dataset [CLICK!](https://www.cvlibs.net/datasets/kitti/eval_scene_flow.php?benchmark=stereo) 
 
-The program can be run with Tensorflow/Keras backbone for networks DenseDepth and DenseDepth-Small. Implementation is located in the folder [densedepth](/densedepth/).
+The program can be run with Tensorflow/Keras backbone for networks DenseDepth (download weights from [here](https://drive.google.com/file/d/19dfvGvDfCRYaqxVKypp1fRHwK7XtSjVu/view)) and DenseDepth-Small. Implementation is located in the folder [densedepth](/densedepth/).
 - [/densedepth/dense_depth_run.py](/densedepth/dense_depth_run.py) is used to run live stream video (you must have a camera connected)
 - [/densedepth/dense_depth_evaluation.py](/densedepth/dense_depth_evaluation.py) evaluation of the method on KITTI dataset [CLICK!](https://www.cvlibs.net/datasets/kitti/eval_scene_flow.php?benchmark=stereo) 
 
