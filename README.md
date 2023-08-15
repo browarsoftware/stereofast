@@ -74,28 +74,17 @@ Hachaj, T. Adaptable 2D to 3D Stereo vision Image Conversion Based on a Deep Con
 
 
 
-@Article{e25081212,
-
-AUTHOR = {Hachaj, Tomasz},
-
-TITLE = {Adaptable 2D to 3D Stereo vision Image Conversion Based on a Deep Convolutional Neural Network and Fast Inpaint Algorithm},
-
-JOURNAL = {Entropy},
-
-VOLUME = {25},
-
-YEAR = {2023},
-
-NUMBER = {8},
-
-ARTICLE-NUMBER = {1212},
-
-URL = {https://www.mdpi.com/1099-4300/25/8/1212},
-
-ISSN = {1099-4300},
-
-DOI = {10.3390/e25081212}
-
+@Article{e25081212,<br />
+AUTHOR = {Hachaj, Tomasz},<br />
+TITLE = {Adaptable 2D to 3D Stereo vision Image Conversion Based on a Deep Convolutional Neural Network and Fast Inpaint Algorithm},<br />
+JOURNAL = {Entropy},<br />
+VOLUME = {25},<br />
+YEAR = {2023},<br />
+NUMBER = {8},<br />
+ARTICLE-NUMBER = {1212},<br />
+URL = {https://www.mdpi.com/1099-4300/25/8/1212},<br />
+ISSN = {1099-4300},<br />
+DOI = {10.3390/e25081212}<br />
 }
 
 
